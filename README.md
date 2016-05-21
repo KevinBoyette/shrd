@@ -14,8 +14,20 @@ the paper and searches for other papers containing the same words.
 ====
 
 The system will be modified to simulate a relatively high failure rate
-for each component. The failure rate for each function call will be approximately 
-λ = 1000000/n 2 per time the function is called, where n is the number of lines 
+for each component. The failure rate for each function call will be approximately
+λ = 1000000/n 2 per time the function is called, where n is the number of lines
 of code in the function.
 
 ===
+
+Contributors to SHRD:
+
++ Ashish Pathak - https://github.com/ashishpat
+
++ Henrique Carvalho da Cruz - https://github.com/henriquecarv
+
++ James Livulpi - https://github.com/jameslivulpi
+
++ Kevin Boyette - https://github.com/KevinBoyette
+
++ Supoon Dutta -
